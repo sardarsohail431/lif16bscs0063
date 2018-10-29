@@ -1,3 +1,3 @@
-"my name is sohail"
+"my name is sardar sohail"
 email=sohailfida@gmail.com
 faculty= foit
